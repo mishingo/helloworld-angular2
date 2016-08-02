@@ -9,6 +9,6 @@ export class Hello {
   public hello: string;
 
   constructor() {
-    this.hello = 'Hello World!';
+    this.hello = 'Hello Love!';
   }
 }
